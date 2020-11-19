@@ -3,11 +3,11 @@
 This is a graph implements hashmap and give you best Complexity ever.
 you can use it,edit it, publish it,and what you want to do with it.
 
-
-##Graph_DS
+<br /><br />
+## Graph_DS
 Graph_DS is implement of graph.java
-
-##Methods 
+<br /><br />
+## Methods 
 addNode -adding new node to the graph that takes O(1)
 <br />
 removeNode - removing node that graph had that takes O(n)
@@ -32,10 +32,10 @@ getMC() - return the Mode Count - for testing changes in the graph. run in o(1)
 nodeSize() - return the number to verices (nodes) in the graph. run in O(1).
 <br />
 <br />
-##Graph_Algo
+## Graph_Algo
 Graph_Algo is implement of graph_algorithms.java
-
-##Methods 
+<br /><br />
+## Methods 
 init - Init the EX0.ex0.graph on which this set of algorithms operates on.
 <br />
 copy() - clone the graph to new one
@@ -51,10 +51,10 @@ ReverseArrayList - method to make a reverse of ArrayList.
 shortestPath - Returns the the shortest path between src to dest - as an ordered List of nodes: src--> n1-->n2-->...dest
 <br />
 <br />
-##NodeData
+## NodeData
 NodeData is implement of node_data.java
-
-##Methods 
+<br /><br />
+## Methods 
 getkey - Return the key (id) associated with this node. each EX0.ex0.node_data should have a unique key.
 <br />
 setkey - set key manually for a node.
